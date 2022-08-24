@@ -1,7 +1,10 @@
 #+title: [[mailto:kbranan@alum.mit.edu][Kenyon Branan]]
 #+options: toc:nil org-html-postamble:nil timestamp:nil arch:headline author:nil
 
-Hi! I work on syntax and its interfaces. I am particularly interested in the nature of syntactic locality, and how much non-syntactic information the syntax may make reference to. I'm currently working at [[https://leibniz-zas.de][ZAS]], after some time at [[https://mitcho.com/lab/][NUS]] and [[https://linguistics.mit.edu][MIT]].
+Hi! I work on syntax and its interfaces. I am particularly interested in the nature of syntactic locality, and how much non-syntactic information the syntax may make reference to. I'm currently working at [[https://leibniz-zas.de][ZAS]], after some time at [[https://mitcho.com/lab/][NUS]] and [[https://linguistics.mit.edu][MIT]]. Here's my [[https://www.dropbox.com/s/hi2rotvgu0bo38c/cv_5.pdf?dl=0][CV]].
 
-# * News
-# - Gave a talk with
+
+* News
+- Gave a talk with [[https://esnewman.github.io/elisenewman/][Elise Newman]] on our joint work on locality at [[http://ling.cuhk.edu.hk/glowxiii/index.php][GLOW in Asia XII]]
+- Gave a talk about copy deletion at the [[https://mitcho.com/singsummer2022/][Singapore Summer Meeting]]
+- Gave a talk about binding and locality domains at Universität Göttingen
