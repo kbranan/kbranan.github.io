@@ -1,4 +1,7 @@
-* Test
-- Test
-  - Test
-    - Test
+#+title: [[mailto:kbranan@alum.mit.edu][Kenyon Branan]]
+#+options: toc:nil org-html-postamble:nil timestamp:nil arch:headline author:nil
+
+Hi! I work on syntax and its interfaces. I am particularly interested in the nature of syntactic locality, and how much non-syntactic information the syntax may make reference to. I'm currently working at [[https://leibniz-zas.de][ZAS]], after some time at [[https://mitcho.com/lab/][NUS]] and [[https://linguistics.mit.edu][MIT]].
+
+# * News
+# - Gave a talk with
