@@ -33,10 +33,10 @@
 
 ;; Install dependencies
 (package-install 'htmlize)
-(package-install 'ox-bibtex)
 
 ;; Load the publishing system
 (require 'ox-publish)
+(add-to-list 'load-path "contrib/lisp/")
 (require 'ox-bibtex)
 (setq org-latex-pdf-process '("latexmk -pdf -outdir=%o %f"))
 
