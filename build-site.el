@@ -36,6 +36,7 @@
 
 ;; Load the publishing system
 (require 'ox-publish)
+(require 'ox-bibtex)
 
 ;; Customize the HTML output
 (setq org-html-validation-link nil            ;; Don't show validation link
@@ -63,8 +64,5 @@
 
 (message "Build complete!")
 
-(provide 'build-site)
-(require 'ox-publish)
 
-(message "Build complete!")
 ;;; build-site.el ends here
