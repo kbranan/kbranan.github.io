@@ -16,7 +16,7 @@ jobs:
         run: sudo apt install bibtex2html --yes
 
       - name: Install Emacs
-        run: sudo apt install emacs-nox --yes
+        run: sudo apt install emacs --yes
 
       - name: Build the site
         run: ./build.sh
