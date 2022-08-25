@@ -33,6 +33,7 @@
 
 ;; Install dependencies
 (package-install 'htmlize)
+(package-install 'ox-bibtex)
 
 ;; Load the publishing system
 (require 'ox-publish)
