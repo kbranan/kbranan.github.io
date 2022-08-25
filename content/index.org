@@ -13,5 +13,3 @@ You can send me mail here: [[mailto:kgbranan@alum.mit.edu][kgbranan@alum.mit.edu
 - Gave a talk about copy deletion at the [[https://mitcho.com/singsummer2022/][Singapore Summer Meeting]]
 - Gave a talk about binding and locality domains at [[https://uni-goettingen.de/en/oberseminar+english+linguistics/651849.html][Universität Göttingen]]
 
-* Papers
-- cite:branan2018relationship
