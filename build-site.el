@@ -36,6 +36,7 @@
 
 ;; Load the publishing system
 (require 'ox-publish)
+(require 'ox-bibtex)
 
 ;; Customize the HTML output
 (setq org-html-validation-link nil            ;; Don't show validation link
@@ -58,7 +59,8 @@
              :section-numbers nil       ;; Don't include section numbers
              :time-stamp-file nil       ;; Don't include time stamp in file
              :org-html-postamble nil
-             :bibliography "/content/self.bib")))
+             :bibliography "/content/self.bib"
+             :csl chicago-author-date-16th-edition.csl)))
 ;; Generate the site output
 (org-publish-all t)
 
