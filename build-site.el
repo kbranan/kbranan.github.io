@@ -37,7 +37,7 @@
 ;; Load the publishing system
 (require 'ox-publish)
 (add-to-list 'load-path "contrib/lisp/")
-(require 'ox-bibtex)
+(eval-after-load 'org (require 'ox-bibtex))
 (setq org-latex-pdf-process '("latexmk -pdf -outdir=%o %f"))
 
 ;; Customize the HTML output
