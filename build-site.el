@@ -41,7 +41,8 @@
 (setq org-html-validation-link nil            ;; Don't show validation link
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
-      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
+      ;;org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
+      org-html-head "<link rel=\"stylesheet\" href=\"https://gitlab.com/OlMon/org-themes/-/blob/master/src/solarized_light/solarized_light.theme\" />")
 
 ;; Define the publishing project
 (setq org-publish-project-alist
@@ -56,8 +57,7 @@
              :with-toc t                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
              :time-stamp-file nil       ;; Don't include time stamp in file
-             :org-html-postamble nil
-             :arch:headline)))
+             :org-html-postamble nil)))
 ;; Generate the site output
 (org-publish-all t)
 
