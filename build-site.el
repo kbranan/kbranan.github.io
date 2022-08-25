@@ -36,7 +36,6 @@
 
 ;; Load the publishing system
 (require 'ox-publish)
-(require 'ox-bibtex)
 
 ;; Customize the HTML output
 (setq org-html-validation-link nil            ;; Don't show validation link
