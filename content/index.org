@@ -11,3 +11,6 @@ You can send me mail here: [[mailto:kgbranan@alum.mit.edu][kgbranan@alum.mit.edu
 - Gave a talk with [[https://esnewman.github.io/elisenewman/][Elise Newman]] on our joint work on locality at [[http://ling.cuhk.edu.hk/glowxiii/index.php][GLOW in Asia XII]]
 - Gave a talk about copy deletion at the [[https://mitcho.com/singsummer2022/][Singapore Summer Meeting]]
 - Gave a talk about binding and locality domains at [[https://uni-goettingen.de/en/oberseminar+english+linguistics/651849.html][Universität Göttingen]]
+
+* Papers
+- [[textcite:&branan2018relationship]]
