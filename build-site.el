@@ -57,7 +57,8 @@
              :with-toc t                ;; Include a table of contents
              :section-numbers nil       ;; Don't include section numbers
              :time-stamp-file nil       ;; Don't include time stamp in file
-             :org-html-postamble nil)))
+             :org-html-postamble nil
+             :bibliography "/content/self.bib")))
 ;; Generate the site output
 (org-publish-all t)
 
